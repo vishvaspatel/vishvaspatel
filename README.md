@@ -34,7 +34,6 @@
 <!-- ─── Android‑dev stack ──────────────────────────────────────────────── -->
 <span><img height="50" src="https://img.icons8.com/color/48/android-os.png" alt="Android"/></span>
 <span><img height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/></span>
-<span><img height="50" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/icons/jetpackcompose.svg" alt="Jetpack Compose"/></span>
 
 <!-- ─── Web / backend stack ────────────────────────────────────────────── -->
 <span><img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Android‑SDK"/></span>
@@ -46,7 +45,6 @@
 <span><img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="FastAPI"/></span>
 <span><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="Git"/></span>
 <span><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Docker"/></span>
-<span><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw2QsVuhmO0PWcmJJOo2_kY1&ust=1747046097598000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiIpIGcm40DFQAAAAAdAAAAABAE" alt="Java"/></span>
 
 <!-- ─── ML / AI stack ──────────────────────────────────────────────────── -->
 <span><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="TensorFlow"/></span>
