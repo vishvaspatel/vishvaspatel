@@ -8,13 +8,12 @@
 
  ***A little about ME!*** <br>
  
-- ✨ I'm currently a **Computer Engineering** student.<br>
-- 🔭 At present, I am expert in **Full Stack Web Development using MERN Stack**.<br>
-- 🌱 I'm interested in the the fields of **Development and Blockchain**.<br>
-- 👯 I'm looking to collaborate on **Projects**.<br>
+- ✨ I'm currently a **Computer Science Engineering** student at IIT Jodhpur.<br>
+- 🔭 At present, I am expert in **Full Stack Web/APP Development and field of Machine Learnig and AI**.<br>
+- 🌱 I'm interested in the the fields of **Development and ML/AI**.<br>
 - 💬 Always up for coversations related to **Tech, Music and Movies**.<br>
 - 😄 Pronouns: *he/him*<br>
-- 📫 Reach me: <a href="mailto:npatel1073@gmail.com"> Here's my mail id! </a> &nbsp; <a href="https://www.linkedin.com/in/neel-patel-014123202/"> Here's my Linkedin Profile! </a> <br>
+- 📫 Reach me: </a> &nbsp; <a href="https://www.linkedin.com/in/vishvas-patel-6a706b21a/"> Here's my Linkedin Profile! </a> <br>
 <!--⚡ Fun fact: I like writing for personal fun! -->
 <br>
 
